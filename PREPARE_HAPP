@@ -1,0 +1,3 @@
+#!/bin/bash
+# https://stackoverflow.com/a/1252191
+sed ':a;N;$!ba;s/\n/, /g' list.txt > prepared_happ.txt

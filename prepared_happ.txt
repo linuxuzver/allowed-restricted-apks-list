@@ -1,0 +1,1 @@
+com.instagram.android, org.telegram.messenger, com.spotify.music, com.whatsapp, com.google.android.youtube, com.shazam.android, com.discord, org.schabi.newpipe, com.aurora.store, com.zhiliaoapp.musically, com.radolyn.ayugram, com.longcheertel.cit, com.google.android.gms.location.history, com.github.libretube
