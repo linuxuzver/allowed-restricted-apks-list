@@ -12,3 +12,12 @@ com.radolyn.ayugram
 com.longcheertel.cit
 com.google.android.gms.location.history
 com.github.libretube
+de.tutao.tutanota
+org.thoughtcrime.securesms
+chat.delta
+com.b44t.messenger
+com.notion.id
+com.Slack
+com.ookla.speedtest
+app.morphe.android.youtube
+app.morphe.android.apps.youtube.music
