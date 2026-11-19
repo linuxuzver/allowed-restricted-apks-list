@@ -21,3 +21,4 @@ com.Slack
 com.ookla.speedtest
 app.morphe.android.youtube
 app.morphe.android.apps.youtube.music
+com.google.ios.youtubemusic.app
